@@ -7,7 +7,6 @@ A machine learning project designed to predict house prices using regression tec
 - ├── house_price_prediction.ipynb # Data analysis and model training
 - ├── house_price_prediction_app.py # Streamlit web application
 - ├── model.pkl # Serialized trained model
-- └── README.md # Project documentation
 
 ## 🚀 Features
 
